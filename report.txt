@@ -1,0 +1,20 @@
+The video is a satiracle approach at the assignment. 
+The purpose is for a comedic effect, and the intended audience is everyone :)
+
+1.
+My video is between 1-2 minutes (I did it alone)
+
+2.
+I used text, music found from the internet, 
+recorded sound with a mic/my voice,
+digital videos that i took from my own video recorder 
+and still images that i took from my own camera.
+
+3. 
+I included many transition effects
+
+4. 
+I published my video in HTML
+
+5.
+I documented the code and provided insights for what every part of the code does.
